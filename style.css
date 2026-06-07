@@ -14,7 +14,10 @@
   background-color: #f1f1f1;
   position: fixed;
   height: 100%;
-  overflow: auto;
+
+  /* These properties create the vertical scroll bar */
+  overflow-y: auto;  
+  overflow-x: hidden; 
 }
 
 /* Sidebar links */
