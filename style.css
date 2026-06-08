@@ -6,6 +6,10 @@ div.content {
   h1: 40px
 }
 
+div.content h1{
+  font-size: 40px;
+}
+
 /* The side navigation menu */
 .sidebar {
   margin: 0;
