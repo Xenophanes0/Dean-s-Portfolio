@@ -1,9 +1,8 @@
-.header{
-  color: black    /*Black text color*/
-}
-
-.header h1{
-  font-size: 40px        /*Increase the font size of the <h1> element*/
+/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
 }
 
 /* The side navigation menu */
